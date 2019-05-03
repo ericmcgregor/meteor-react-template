@@ -10,7 +10,7 @@ import './styles/main.scss';
 // import '../../api/remote/ddp';
 
 // import client routes
-import App from '../../ui/layouts/App';
+import App from '../../client/layouts/App';
 
 // mount app
 Meteor.startup(() => {
